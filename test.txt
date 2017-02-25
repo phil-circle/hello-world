@@ -6,3 +6,5 @@ This is a test of merge conflicts or something. Who knows.
 and this is another line of text altogether. And yeaH I will edit it and stuff.
 
 I can have all the lines in here! Yay :)
+
+I can now add another line of text for this purpose.
