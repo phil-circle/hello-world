@@ -1,4 +1,4 @@
-This is a text message to test out the stuff and things.
+his is a text message to test out the stuff and things.
 
 
 This is a test of merge conflicts or something. Who knows.
@@ -8,3 +8,5 @@ and this is another line of text altogether. And yeaH I will edit it and stuff.
 I can have all the lines in here! Yay :)
 
 adding a different line to test.txt here
+
+I can now add another line of text for this purpose.
